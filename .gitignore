@@ -1,5 +1,5 @@
+.terraform/
 terraform.tfstate
-dev.tfstate
-prod.tfstate
-tfplan
-output.txt
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
